@@ -1172,7 +1172,7 @@ margin: 55px;
 					transform: rotate(-135deg);
 				  }
 				  .menu-overlay {
-					position: fixed;
+				
 					left: 0;
 					top: 0;
 					width: 100%;
@@ -1190,6 +1190,7 @@ margin: 55px;
 				  .menu-overlay.open {
 					opacity: 1;
 					visibility: visible;
+					position: fixed;
 				  }
 				 
 				 
